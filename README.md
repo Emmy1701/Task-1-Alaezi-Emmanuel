@@ -11,4 +11,9 @@ Changed data types: converted date column to proper date
 ### Cleaned Data Sample
 ![Cleaned Data](./cleaned_data.png)
 
+### Summary Report
+**Key Finding:** Dataset cleaned and ready for analysis. Date column fixed for pivot tables.
+
+**File:** [Download full report](./Project_1_DataCleaning/Project1_Summary.pdf)
+
 
