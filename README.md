@@ -9,6 +9,6 @@ I Handled missing values by replacing them with 'None'
 Changed data types: converted date column to proper date
 
 ### Cleaned Data Sample
-![Cleaned Data](./Project_1_DataCleaning/cleaned_data.png)
+![Cleaned Data](./cleaned_data.png)
 
 
